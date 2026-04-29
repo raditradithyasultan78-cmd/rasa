@@ -19,11 +19,17 @@ li {
   padding: 5px;
   font-size: large;
 }
-p {
+.aa {
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
   color: rgb(0, 0, 0);
   text-align: center;
+}
+.bb {
+    width: 100%;
+    max-width: 900 px;
+    margin: 40pc auto;
+    padding: 0 20px;
 body{
     background-color: rgb(255, 255, 255);;
 }
