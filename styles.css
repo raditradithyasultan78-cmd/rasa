@@ -19,22 +19,12 @@ li {
   padding: 5px;
   font-size: large;
 }
-h1 {  font-family: 'Times New Roman', Times, serif; font-size: large; color: rgb(0, 0, 0); }
-h2 {  font-family: 'Times New Roman', Times, serif; font-size: large; color: rgb(0, 0, 0); }
-h3 {  font-family: 'Times New Roman', Times, serif; font-size: medium; color: rgb(10, 10, 10); }
-h4 {  font-family: 'Times New Roman', Times, serif; font-size: medium; color: rgb(10, 10, 10); }
-h5 {  font-family: 'Times New Roman', Times, serif; font-size: medium; color: rgb(10, 10, 10); }
-h6 {  font-family: 'Times New Roman', Times, serif; font-size: medium; color: rgb(10, 10, 10); }
-.aa {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 100 px;
-  text-align: center;
-}
-.bb {
-    width: 100%;
-    max-width: 900 px;
-    margin: 40pc auto;
-    padding: 0 20px;
+p1 {  
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large; 
+    color: rgb(0, 0, 0); 
+    font-size: 100 px; 
+    text-align: center; }
 body{
     background-color: rgb(255, 255, 255);;
 }
